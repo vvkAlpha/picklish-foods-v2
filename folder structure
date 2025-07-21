@@ -1,0 +1,13 @@
+picklish-app/
+├── public/
+│   ├── index.html
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── app.js
+│   └── firebase-messaging-sw.js  (optional for notifications)
+├── functions/  (for Firebase Functions)
+│   └── index.js
+├── .firebaserc
+├── firebase.json
+└── package.json
